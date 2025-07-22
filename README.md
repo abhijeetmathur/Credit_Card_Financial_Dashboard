@@ -46,6 +46,8 @@ To develop an insightful and interactive credit card **weekly dashboard** that h
  
 <img width="993" height="554" alt="image" src="https://github.com/user-attachments/assets/9b904eb1-46f9-435b-83c9-0313ef50635a" />
 
+<img width="1002" height="552" alt="image" src="https://github.com/user-attachments/assets/fd549495-2243-450e-ad0f-38602a43196b" />
+
 ---
 
 ## 🧠 Learnings & Skills Demonstrated
