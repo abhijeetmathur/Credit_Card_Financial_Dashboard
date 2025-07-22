@@ -43,7 +43,8 @@ To develop an insightful and interactive credit card **weekly dashboard** that h
   - Data cleaning
   - Data transformation
   - KPI calculations
-  - 
+ 
+    
 ---
 
 ## 🧠 Learnings & Skills Demonstrated
