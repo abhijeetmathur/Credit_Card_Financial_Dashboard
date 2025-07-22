@@ -44,7 +44,8 @@ To develop an insightful and interactive credit card **weekly dashboard** that h
   - Data transformation
   - KPI calculations
  
-    
+<img width="993" height="554" alt="image" src="https://github.com/user-attachments/assets/9b904eb1-46f9-435b-83c9-0313ef50635a" />
+
 ---
 
 ## 🧠 Learnings & Skills Demonstrated
